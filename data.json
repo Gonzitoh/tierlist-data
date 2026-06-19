@@ -1,0 +1,76 @@
+{
+  "player_data": {
+    "1050508472334172261": {
+      "region": "SA",
+      "username": "GordoBasado",
+      "history": {
+        "SWORD": "LT4"
+      }
+    },
+    "702338446403960962": {
+      "region": "NA",
+      "username": "MrAcrobat1403",
+      "history": {}
+    },
+    "689350744880840704": {
+      "region": "NA",
+      "username": "Canchita777",
+      "history": {
+        "MACE": "LT5",
+        "SWORD": "HT5"
+      }
+    },
+    "1269464291602468894": {
+      "region": "NA",
+      "username": "Mbappe7702241",
+      "history": {}
+    }
+  },
+  "cooldowns": {
+    "1050508472334172261": {
+      "SWORD": "2026-06-19T23:32:11.455309"
+    },
+    "689350744880840704": {
+      "SWORD": "2026-06-22T00:04:02.662344"
+    }
+  },
+  "hightest_cooldowns": {},
+  "tester_stats": {
+    "689350744880840704": {
+      "name": "SA/NA | Repudiarte",
+      "all_time": 6,
+      "monthly": {
+        "2026-06": 6
+      }
+    }
+  },
+  "staff_stats": {
+    "689350744880840704": {
+      "name": "SA/NA | Repudiarte",
+      "all_time": 8,
+      "monthly": {
+        "2026-06": 8
+      }
+    }
+  },
+  "leaderboard_message": {
+    "channel_id": 1516551658979594404,
+    "message_id": 1517311881675669546
+  },
+  "tier_roles": {
+    "LT4-SWORD": 1507501455857418322,
+    "LT5-MACE": 1507501647964672220,
+    "HT5-MACE": 1507501643761975317,
+    "LT4-MACE": 1507501639387578379,
+    "HT5-SWORD": 1507501460131282994
+  },
+  "queue_messages": {
+    "AXE": 1516583283012403251,
+    "SWORD": 1516583284392595697,
+    "UHC": 1516583285843558421,
+    "SMP": 1516583288289104075,
+    "CRYSTAL": 1516583290763612321,
+    "MACE": 1516583292349186128,
+    "POT": 1516583293322137751
+  }
+}
