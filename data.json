@@ -19,6 +19,9 @@
         "MACE": "HT4",
         "SWORD": "HT3",
         "CRYSTAL": "HT1"
+      },
+      "retired": {
+        "CRYSTAL": "HT1"
       }
     },
     "1269464291602468894": {
