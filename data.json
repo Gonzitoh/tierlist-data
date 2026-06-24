@@ -146,7 +146,9 @@
     "1493055659426713611": {
       "region": "SA",
       "username": "Zeycristo",
-      "history": {}
+      "history": {
+        "SWORD": "LT3"
+      }
     }
   },
   "cooldowns": {
