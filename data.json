@@ -187,7 +187,9 @@
     "860357566140121099": {
       "region": "SA",
       "username": "Carlusu",
-      "history": {}
+      "history": {
+        "SWORD": "LT4"
+      }
     }
   },
   "cooldowns": {
